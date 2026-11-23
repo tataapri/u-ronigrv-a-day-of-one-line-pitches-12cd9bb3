@@ -6,6 +6,8 @@
 
 One sentence of up to 240 characters that would convince a friend who has never coded to let an AI agent build their first app idea on make.fun.
 
+> "You don't need to learn to code — just describe the app you've been daydreaming about, and an AI agent on make.fun will build a working first version for you to try, tweak, and keep only if you like it."
+
 ## Run it
 
 ```sh
